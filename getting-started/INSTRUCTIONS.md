@@ -1,4 +1,4 @@
-## Getting Started Tutorials
+# Getting Started Tutorials
 
 For this part of the assignment, you will complete a Getting Started tutorial based on the track that you have selected *or* that you have developed in collaboration with Ajay or Noah. To submit the code / files for the getting started tutorials you complete, please upload them in this `/getting-started/` directory.
 
