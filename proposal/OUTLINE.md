@@ -31,7 +31,9 @@ In the project outline, you will specify details about the type of application t
 **Identify the programming language(s) you will need to learn in order to work on this project. Provide a link to the official documentation for this programming language. Also, please provide 3 free, easy-to-access resources that you can use to learn this programming language.**
 
 **Programming languages:** *Include languages here. If you need help finding this, please ask Ajay or Noah!*
+
 **Official docmentation link:** *If you have trouble finding this, search "[language] official documentation" on Google to explore.*
+
 **Good learning resources:**
 - *Enter resource 1 here as a link in Markdown (recall this syntax: `[display text](url)`)
 - *Enter resource 2 here as a link in Markdown (recall this syntax: `[display text](url)`)
